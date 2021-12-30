@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   sodipodi:docname="wizard.svg"
+   inkscape:export-filename="/home/vincetiu8/Documents/github/maths-ia/Assets/2dassets.png"
+   inkscape:export-xdpi="520.19202"
+   inkscape:export-ydpi="520.19202"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:zoom="2.1997092"
+     inkscape:cx="154.33858"
+     inkscape:cy="117.51553"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3897"
+       transform="matrix(0.72727286,0,0,0.72727286,-13.081697,-21.492224)"
+       inkscape:export-filename="/home/vincetiu8/Documents/github/maths-ia/Assets/playerwizard.png"
+       inkscape:export-xdpi="520.19202"
+       inkscape:export-ydpi="520.19202">
+      <circle
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="path1479"
+         cx="52.362324"
+         cy="63.926796"
+         r="25" />
+      <circle
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="path1479-7"
+         cx="52.362324"
+         cy="63.926796"
+         r="2.5" />
+      <path
+         id="path1479-1"
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:18.8976;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 222.16992,155.34766 8.11719,14.87304 -8.97266,14.37305 16.6543,-3.12305 10.89648,12.97461 2.17774,-16.80273 11.71094,-4.74024 a 94.488188,94.488188 0 0 0 -10.10157,-8.30078 94.488188,94.488188 0 0 0 -0.004,-0.002 l -1.20899,-0.57422 -0.0195,-0.27539 a 94.488188,94.488188 0 0 0 -10.81445,-6.42188 l -1.99219,2.10938 z m -57.50195,10.59961 -11.63867,12.31445 -16.44141,-4.0918 8.11523,14.87305 -8.9707,14.37305 16.65235,-3.1211 10.89843,12.97266 2.17578,-16.80274 15.70704,-6.35546 -15.3086,-7.26172 z m 58.35351,52.00585 -10.75586,11.37891 a 18.897638,18.897638 0 0 1 4.53711,12.28125 18.897638,18.897638 0 0 1 -4.64062,12.38281 l 9.47461,11.27735 2.17578,-16.80274 15.70703,-6.35547 -15.30859,-7.26171 z m -106.82421,14.20899 -11.63672,12.31445 -1.04688,-0.25976 a 94.488188,94.488188 0 0 0 4.97071,27.73242 l 6.33007,7.53516 2.17578,-16.80274 15.70704,-6.35547 -15.3086,-7.26172 z m 171.15234,4.80469 -11.63867,12.31445 -16.44141,-4.08984 8.11524,14.87304 -8.97071,14.37305 16.65235,-3.12305 8.48828,10.10547 a 94.488188,94.488188 0 0 0 4.14648,-10.54492 l 0.43945,-3.38867 0.65626,-0.26563 a 94.488188,94.488188 0 0 0 2.59374,-12 l -2.85156,-1.35351 z m -106.82422,28.30468 -11.63672,12.31446 -16.4414,-4.0918 8.11523,14.87305 -8.9707,14.37304 16.65234,-3.12109 10.89844,12.97266 2.17578,-16.80274 15.70508,-6.35547 -15.30664,-7.26171 z m 64.32813,33.10743 -11.63672,12.31445 -16.44141,-4.08984 8.11523,14.87304 -7.875,12.61914 a 94.488188,94.488188 0 0 0 35.75586,-15.62304 l -6.72656,-3.19141 z"
+         transform="scale(0.26458333)" />
+    </g>
+    <g
+       id="g3897-7"
+       transform="matrix(0.72727286,0,0,0.72727286,36.918303,-21.492224)"
+       inkscape:export-filename="/home/vincetiu8/Documents/github/maths-ia/Assets/enemywizard.png"
+       inkscape:export-xdpi="520.19202"
+       inkscape:export-ydpi="520.19202">
+      <circle
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="path1479-0"
+         cx="52.362324"
+         cy="63.926796"
+         r="25" />
+      <circle
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="path1479-7-9"
+         cx="52.362324"
+         cy="63.926796"
+         r="2.5" />
+      <path
+         id="path1479-1-3"
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:18.8976;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 222.16992,155.34766 8.11719,14.87304 -8.97266,14.37305 16.6543,-3.12305 10.89648,12.97461 2.17774,-16.80273 11.71094,-4.74024 a 94.488188,94.488188 0 0 0 -10.10157,-8.30078 94.488188,94.488188 0 0 0 -0.004,-0.002 l -1.20899,-0.57422 -0.0195,-0.27539 a 94.488188,94.488188 0 0 0 -10.81445,-6.42188 l -1.99219,2.10938 z m -57.50195,10.59961 -11.63867,12.31445 -16.44141,-4.0918 8.11523,14.87305 -8.9707,14.37305 16.65235,-3.1211 10.89843,12.97266 2.17578,-16.80274 15.70704,-6.35546 -15.3086,-7.26172 z m 58.35351,52.00585 -10.75586,11.37891 a 18.897638,18.897638 0 0 1 4.53711,12.28125 18.897638,18.897638 0 0 1 -4.64062,12.38281 l 9.47461,11.27735 2.17578,-16.80274 15.70703,-6.35547 -15.30859,-7.26171 z m -106.82421,14.20899 -11.63672,12.31445 -1.04688,-0.25976 a 94.488188,94.488188 0 0 0 4.97071,27.73242 l 6.33007,7.53516 2.17578,-16.80274 15.70704,-6.35547 -15.3086,-7.26172 z m 171.15234,4.80469 -11.63867,12.31445 -16.44141,-4.08984 8.11524,14.87304 -8.97071,14.37305 16.65235,-3.12305 8.48828,10.10547 a 94.488188,94.488188 0 0 0 4.14648,-10.54492 l 0.43945,-3.38867 0.65626,-0.26563 a 94.488188,94.488188 0 0 0 2.59374,-12 l -2.85156,-1.35351 z m -106.82422,28.30468 -11.63672,12.31446 -16.4414,-4.0918 8.11523,14.87305 -8.9707,14.37304 16.65234,-3.12109 10.89844,12.97266 2.17578,-16.80274 15.70508,-6.35547 -15.30664,-7.26171 z m 64.32813,33.10743 -11.63672,12.31445 -16.44141,-4.08984 8.11523,14.87304 -7.875,12.61914 a 94.488188,94.488188 0 0 0 35.75586,-15.62304 l -6.72656,-3.19141 z"
+         transform="scale(0.26458333)" />
+    </g>
+    <rect
+       style="fill:#803300;fill-opacity:1;stroke:#000000;stroke-width:3.636;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5313"
+       width="40"
+       height="3.5"
+       x="8.6162376"
+       y="52.836189"
+       inkscape:export-filename="/home/vincetiu8/Documents/github/maths-ia/Assets/wand.png"
+       inkscape:export-xdpi="520.19202"
+       inkscape:export-ydpi="520.19202" />
+    <circle
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path852"
+       cx="63.75"
+       cy="53.75"
+       r="2.5" />
+    <circle
+       style="fill:#fe0000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path852-3"
+       cx="73.75"
+       cy="53.75"
+       r="2.5" />
+  </g>
+</svg>
